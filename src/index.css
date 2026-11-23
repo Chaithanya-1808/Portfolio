@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #f4f2ee;
+    color: #191919;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
+  }
+}
+
+/* Custom editorial styles */
+.font-editorial-heading {
+  font-family: 'Playfair Display', 'Bodoni Moda', serif;
+  letter-spacing: -0.03em;
+  font-feature-settings: "liga" 1, "dlig" 1;
+}
+
+.font-editorial-serif {
+  font-family: 'Bodoni Moda', 'Playfair Display', serif;
+}
+
+.font-editorial-sub {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+}
+
+/* Watermark typography styling */
+.editorial-watermark {
+  user-select: none;
+  pointer-events: none;
+  font-family: 'Bodoni Moda', 'Playfair Display', serif;
+  color: #ebe7de;
+  letter-spacing: -0.02em;
+  line-height: 0.9;
+  text-shadow: 0 0 1px rgba(235, 231, 222, 0.8);
+}
+
+/* Glassmorphism backdrop dock */
+.dock-glass {
+  background: linear-gradient(180deg, rgba(14, 14, 14, 0.85) 0%, rgba(7, 7, 7, 0.98) 100%);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+/* Hide scrollbars while allowing scroll */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

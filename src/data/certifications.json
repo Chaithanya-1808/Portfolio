@@ -1,0 +1,235 @@
+[
+  {
+    "id": "google-gemini-student",
+    "title": "Gemini Certified Student",
+    "issuer": "Google for Education",
+    "issuerOrg": "Google for Education",
+    "category": "Artificial Intelligence",
+    "issueDate": "April 2026",
+    "validThrough": "April 2029",
+    "credentialId": "GOOG-GEMINI-K12-2026",
+    "verifyUrl": "https://edu.google.com",
+    "image": "/assets/certifications/google_gemini_student.png",
+    "logo": "google-gemini",
+    "initials": "GG",
+    "accentColor": "#4285F4",
+    "skills": ["Google Gemini", "Generative AI", "AI in Education", "Prompt Design"],
+    "learnings": [
+      "Mastered generative AI workflows and multimodal prompt design using Google Gemini.",
+      "Developed high-efficiency strategies for academic research, synthesis, and creative ideation.",
+      "Evaluated AI-generated outputs for factual accuracy, hallucinations, and source reliability.",
+      "Applied ethical guidelines and safety benchmarks for responsible AI in education."
+    ]
+  },
+  {
+    "id": "google-genai",
+    "title": "Introduction to Generative AI",
+    "issuer": "Google Cloud",
+    "issuerOrg": "Google Cloud / Simplilearn SkillUp",
+    "category": "Cloud & AI",
+    "issueDate": "September 2025",
+    "credentialId": "SIMPLI-GCLOUD-GENAI-2025",
+    "verifyUrl": "https://cloud.google.com/training",
+    "image": "/assets/certifications/google_genai.png",
+    "logo": "google-cloud",
+    "initials": "GC",
+    "accentColor": "#4285F4",
+    "skills": ["Generative AI", "Large Language Models", "Vertex AI", "Deep Learning"],
+    "learnings": [
+      "Learned core principles of deep learning architectures and foundation language models.",
+      "Engineered structured prompts and evaluated model performance across creative domains.",
+      "Implemented Responsible AI principles to mitigate bias, security risks, and hallucination.",
+      "Explored real-world enterprise deployment pipelines using Google Cloud AI tools."
+    ]
+  },
+  {
+    "id": "redhat-java-ee",
+    "title": "Application Development I: Java EE",
+    "issuer": "Red Hat",
+    "issuerOrg": "Red Hat Training & Certification",
+    "category": "Enterprise Development",
+    "issueDate": "April 2026",
+    "creditHours": "32 Hours",
+    "credentialId": "AD183-RHA-VER-7.0",
+    "verifyUrl": "https://www.credly.com/badges/83d34b5f-64de-45c0-89db-6bf4381a0470",
+    "image": "/assets/certifications/redhat_java_ee.png",
+    "logo": "redhat",
+    "initials": "RH",
+    "accentColor": "#EE0000",
+    "skills": ["Java EE", "JAX-RS REST APIs", "JPA Persistence", "JBoss EAP"],
+    "learnings": [
+      "Architected multi-tier enterprise solutions using Java EE / Jakarta EE standards.",
+      "Built resilient RESTful web APIs with JAX-RS and JSON serialization protocols.",
+      "Managed persistent relational data lifecycles using JPA (Java Persistence API).",
+      "Packaged and deployed enterprise modules on Red Hat JBoss Enterprise Application Platform."
+    ]
+  },
+  {
+    "id": "oracle-database-23ai",
+    "title": "Applied Database Systems 23ai",
+    "issuer": "Oracle Academy",
+    "issuerOrg": "Oracle Academy / NCET",
+    "category": "Database Engineering",
+    "issueDate": "December 2025",
+    "credentialId": "ORA-ADS-23AI-2025",
+    "verifyUrl": "https://academy.oracle.com",
+    "image": "/assets/certifications/oracle_db_23ai.jpeg",
+    "logo": "oracle",
+    "initials": "OA",
+    "accentColor": "#C74634",
+    "skills": ["Oracle 23ai", "SQL Optimization", "Relational Modeling", "ACID Transactions"],
+    "learnings": [
+      "Designed normalized relational schemas from 1NF through Boyce-Codd Normal Form.",
+      "Crafted high-performance SQL queries utilizing advanced joins, subqueries, and window functions.",
+      "Explored AI Vector Search capabilities integrated into modern Oracle 23ai database engines.",
+      "Enforced ACID transaction guarantees, complex constraints, and database security triggers."
+    ]
+  },
+  {
+    "id": "oracle-java-fundamentals",
+    "title": "Java Fundamentals",
+    "issuer": "Oracle Academy",
+    "issuerOrg": "Oracle Academy / NCET",
+    "category": "Core Software Engineering",
+    "issueDate": "April 2026",
+    "credentialId": "ORA-JAVA-FUND-2026",
+    "verifyUrl": "https://academy.oracle.com",
+    "image": "/assets/certifications/oracle_java_fundamentals.png",
+    "logo": "oracle",
+    "initials": "OA",
+    "accentColor": "#C74634",
+    "skills": ["Java SE", "Object-Oriented Programming", "Polymorphism", "Exception Handling"],
+    "learnings": [
+      "Mastered four pillars of OOP: Abstraction, Encapsulation, Inheritance, and Polymorphism.",
+      "Constructed reusable class hierarchies, custom interfaces, and robust package architectures.",
+      "Implemented resilient error-handling paradigms utilizing try-catch-finally mechanisms.",
+      "Solved algorithmic computational logic problems using Java Standard Library data structures."
+    ]
+  },
+  {
+    "id": "codechef-500",
+    "title": "500 Difficulty Rating Problems",
+    "issuer": "CodeChef",
+    "issuerOrg": "CodeChef Pro Learning",
+    "category": "Competitive Programming",
+    "issueDate": "April 2026",
+    "credentialId": "CC-PRO-500-2026",
+    "verifyUrl": "https://www.codechef.com/certificates/verify",
+    "image": "/assets/certifications/codechef_500.png",
+    "logo": "codechef",
+    "initials": "CC",
+    "accentColor": "#5B4638",
+    "skills": ["Algorithms", "Data Structures", "Time Complexity", "Competitive Coding"],
+    "learnings": [
+      "Completed comprehensive practice problem suite targeting core algorithmic thinking.",
+      "Optimized runtime complexity and memory consumption under strict execution limits.",
+      "Honed pattern recognition for array indexing, number theory, and two-pointer strategies.",
+      "Strengthened speed and accuracy debugging edge cases in competitive algorithmic environments."
+    ]
+  },
+  {
+    "id": "infosys-network-security",
+    "title": "Computer Network & Internet Security",
+    "issuer": "Infosys Springboard",
+    "issuerOrg": "Infosys Limited",
+    "category": "Cybersecurity & Networking",
+    "issueDate": "September 2026",
+    "credentialId": "INF-CN-SEC-2026-9281",
+    "verifyUrl": "https://verify.onwingspan.com",
+    "image": "/assets/certifications/infosys_network_security.png",
+    "logo": "infosys",
+    "initials": "IS",
+    "accentColor": "#007CC3",
+    "skills": ["Network Protocols", "TCP/IP & OSI", "Cybersecurity", "SSL/TLS Encryption"],
+    "learnings": [
+      "Analyzed data packet transmission mechanics across the OSI 7-layer and TCP/IP stacks.",
+      "Configured routing protocols, subnet masks, DNS resolution, and firewall rules.",
+      "Studied defensive cybersecurity principles against DDoS, MITM, and injection attacks.",
+      "Examined cryptographic fundamentals including asymmetric keys, hashing, and SSL/TLS handshakes."
+    ]
+  },
+  {
+    "id": "infosys-software-engineering",
+    "title": "Software Engineering Foundations",
+    "issuer": "Infosys Springboard",
+    "issuerOrg": "Infosys Limited",
+    "category": "Software Engineering",
+    "issueDate": "October 2026",
+    "credentialId": "INF-SE-2026-1002",
+    "verifyUrl": "https://verify.onwingspan.com",
+    "image": "/assets/certifications/infosys_software_engineering.png",
+    "logo": "infosys",
+    "initials": "IS",
+    "accentColor": "#007CC3",
+    "skills": ["SDLC Models", "Requirements Analysis", "UML Modeling", "Testing Methodologies"],
+    "learnings": [
+      "Applied structured software development lifecycle (SDLC) models for scalable systems.",
+      "Formulated comprehensive software requirements specifications (SRS) and architecture models.",
+      "Employed structural UML diagrams to visualize class relationships and interaction workflows.",
+      "Designed systematic black-box and white-box test cases for complete verification coverage."
+    ]
+  },
+  {
+    "id": "infosys-agile-devops",
+    "title": "Overview of Agile & DevOps",
+    "issuer": "Infosys Springboard",
+    "issuerOrg": "Infosys Limited",
+    "category": "Agile & DevOps",
+    "issueDate": "October 2026",
+    "credentialId": "INF-AGILE-DEV-2026",
+    "verifyUrl": "https://verify.onwingspan.com",
+    "image": "/assets/certifications/infosys_agile_devops.png",
+    "logo": "infosys",
+    "initials": "IS",
+    "accentColor": "#007CC3",
+    "skills": ["Scrum & Kanban", "CI/CD Pipelines", "Git Version Control", "DevOps Culture"],
+    "learnings": [
+      "Adopted Agile values, Scrum sprints, user story estimations, and retrospective cadences.",
+      "Constructed automated Continuous Integration and Continuous Delivery (CI/CD) pipelines.",
+      "Managed collaborative source repositories using Git branching, PR reviews, and merge policies.",
+      "Leveraged telemetry, automated testing, and feedback loops to shorten deployment cycles."
+    ]
+  },
+  {
+    "id": "infosys-software-alm",
+    "title": "Software Engineering and ALM",
+    "issuer": "Infosys Springboard",
+    "issuerOrg": "Infosys Limited",
+    "category": "Lifecycle Management",
+    "issueDate": "October 2026",
+    "credentialId": "INF-ALM-2026-1004",
+    "verifyUrl": "https://verify.onwingspan.com",
+    "image": "/assets/certifications/infosys_software_eng_alm.png",
+    "logo": "infosys",
+    "initials": "IS",
+    "accentColor": "#007CC3",
+    "skills": ["ALM Frameworks", "Traceability Matrices", "Release Governance", "Quality Gates"],
+    "learnings": [
+      "Orchestrated full-lifecycle governance spanning requirement traceability to retirement.",
+      "Established strict quality assurance gates and automated build verification criteria.",
+      "Aligned distributed engineering teams through integrated work-item tracking and audit trails.",
+      "Maintained audit compliance and operational risk management across enterprise releases."
+    ]
+  },
+  {
+    "id": "smart-india-hackathon",
+    "title": "Smart India Hackathon 2026",
+    "issuer": "Ministry of Education / AICTE",
+    "issuerOrg": "MoE's Innovation Cell & AICTE",
+    "category": "Innovation & Hackathon",
+    "issueDate": "September 2026",
+    "credentialId": "SIH-NCET-INT-2026",
+    "verifyUrl": "https://sih.gov.in",
+    "image": "/assets/certifications/smart_india_hackathon.png",
+    "logo": "sih",
+    "initials": "SIH",
+    "accentColor": "#E87722",
+    "skills": ["Rapid Prototyping", "Full-Stack Development", "Problem Solving", "Team Leadership"],
+    "learnings": [
+      "Engineered an end-to-end working software prototype within a rigorous 24-hour hackathon sprint.",
+      "Collaborated in cross-functional team roles to tackle nationwide societal problem statements.",
+      "Synthesized technical architecture, intuitive UX, and database backends under strict deadlines.",
+      "Delivered live technical demonstration and pitch defense before an academic and industry jury."
+    ]
+  }
+]
